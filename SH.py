@@ -16,9 +16,8 @@ time.sleep(1)
 slow("\n- CHECKER TIKTOK VERSION 1.05\n")
 time.sleep(1)
 
-slow("ستظهر الان صفحة ويب للقناه حفاظاً على الحقوق ☢️\n Now a web page for the channel appears, in order to preserve the rights ☢️")
+slow ( "ستظهر الان صفحة ويب للقناه حفاظاً على الحقوق ☢️ \ n الآن تظهر صفحة ويب للقناة حفاظاً على الحقوق ☢️" )
 
-import webbrowser
-webbrowser . open('https://t.me/Sanadesta_Pubg')
-time.sleep(4)
-print("sanadesta")
+متصفح  الويب . فتح ( "https://t.me/Sanadesta_Pubg" )
+الوقت . ينام ( 4 )
+طباعة ( "انتهت" )
